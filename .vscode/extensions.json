@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "biomejs.biome",
+        "aaron-bond.better-comments",
+        "dsznajder.es7-react-js-snippets",
+        "bradlc.vscode-tailwindcss",
+        "wayou.vscode-todo-highlight",
+        "gruntfuggly.todo-tree"
+    ]
+}
